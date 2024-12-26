@@ -1,16 +1,14 @@
 [
     {
-        "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/e2e641bf8c146454970d6e2c5a9bf7a8ae3c35dc_1732972038.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
-        "title": "راهنمای خرید ",
-        "videoUrl": "public/video/story/1.mp4",
-        "id": "76"
-      },
-      {
-        "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/41ce87177f0ffd0fd64e83a4238e677327b0fb30_1733077791.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
-        "title": "بهترین لپ تاپ ",
-        "videoUrl": "public/video/story/1.mp4",
-        "id": "233b"
-      },
+    "videoUrl": "https://persian18.asset.aparat.com/aparat-video/11de448e7e60674a1e2e0dd2f7804a2662368337-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImE3YjQ3MzViOTQwYmRiOWE0ZmFhNTgyZDdmM2YzYTZjIiwiZXhwIjoxNzM1MjU5NzY2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.MXS6Q665mhuOOvtNGddkWGIsoVeD31tnPpZY8nKHKMo",
+    "image": "https://example.com/image1.jpg",
+    "title": "Story 1"
+     },
+     {
+    "videoUrl": "public/video/story/1.mp4",
+    "image": "https://example.com/image2.jpg",
+    "title": "Story 2"
+     }و
       {
         "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/9e01a5142d80ed2caa3d56481a4f496d64ae34e3_1732743811.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
         "title": "نکات خرید تبلت",
