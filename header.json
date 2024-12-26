@@ -1,0 +1,10 @@
+[
+    {
+        "logo": "../res/main_page/full-horizontal.svg",
+        "login": "../src/login.ts",
+        "loadingimg": "./res/login/full-vertical.svg",
+        "banner": "../res//main_page/efc287e53c2506ef36e20d62ecbcdeff4302cd49_1734187403.gif",
+        "input": "../res/main_page/digi.svg",
+        "id": "92ef"
+      }
+]
