@@ -1,6 +1,6 @@
 [
     {
-    "videoUrl": "public/video/story/1.mp4",
+    "videoUrl": "./public/video/story/1.mp4",
     "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/e2e641bf8c146454970d6e2c5a9bf7a8ae3c35dc_1732972038.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
     "title": "راهنمای خرید"
      },
