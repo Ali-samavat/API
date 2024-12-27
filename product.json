@@ -31,12 +31,36 @@
       "price": "297,000",
       "realPrice": "1,490,000"
     },
-        {
+    {
       "id": "5",
-      "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/e73719684c0872c6dc2c58918f99aedb145edaac_1734080478.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/fff3e09c05f64e446be31c74b154cd6c8702a904_1735022715.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "title": "هدفون بلوتوثی مدل J90",
       "discount": "71",
       "price": "799,000",
       "realPrice": "2,790,000"
+    },
+    {
+      "id": "6",
+      "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/1adf7f8aed8ef59114bbd64ff6cbef32acc6f896_1733911434.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "title": "ساعت هوشمند وریتی مدل V-SM 22",
+      "discount": "34",
+      "price": 2,199,000",
+      "realPrice": "3,350,000"
+    },
+    {
+      "id": "7",
+      "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/9846980b1596839b359b350603070a0f6c09393c_1733639116.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "title": "هدفون بی سیم مدل i8Pro BT5.4",
+      "discount": "73",
+      "price": "1,490,000",
+      "realPrice": "5,490,000"
+    },
+    {
+      "id": "8",
+      "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/c3aa58b8530cc58ec744bc3c900de5d31096612c_1723710458.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "title": "مودم 4G LTE اسفیورد مدل SM120",
+      "discount": "73",
+      "price": "2,079,000",
+      "realPrice": "2,859,000"
     }
   ]
