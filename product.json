@@ -3,7 +3,7 @@
       "id": "1",
       "imageUrl": "https://dkstatics-public.digikala.com/digikala-products/c0842c295c19f3b88e8491777eb5314379641645_1718703653.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
         "title": "ساعت هوشمند اوآلی",
-      "discount": "75%",
+      "discount": "75",
       "price": "675,000",
       "realPrice": "2,700,000"
     },
@@ -11,7 +11,7 @@
       "id": "2",
       "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/c23b49b0be1c4ae5b2a3d7a3281d2f1731065243_1726037574.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
       "title": "گوشی موبایل Galexy S24 Ultra سامسونگ",
-      "discount": "2%",
+      "discount": "2",
       "price": "69,358,660",
       "realPrice": "70,630,000"
     },
@@ -19,8 +19,24 @@
       "id": "3",
       "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/761e7c4aff0b14cd7ae2717c245d08da8c8bcd39_1732454735.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
       "title": "هدفون بلوتوثی وونک مدل T06 ANC",
-      "discount": "52%",
-      "price": "۲,۸۲۵,۰۰۰",
-      "realPrice": "۵,۹۰۰,۰۰۰"
+      "discount": "52",
+      "price": "2,825,0000",
+      "realPrice": "5,900,000"
+    },
+    {
+      "id": "4",
+      "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/e73719684c0872c6dc2c58918f99aedb145edaac_1734080478.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "title": "هدفون بلوتوثی مدل NEW ULTRA39",
+      "discount": "80",
+      "price": "297,000",
+      "realPrice": "1,490,000"
+    },
+        {
+      "id": "5",
+      "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/e73719684c0872c6dc2c58918f99aedb145edaac_1734080478.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "title": "هدفون بلوتوثی مدل J90",
+      "discount": "71",
+      "price": "799,000",
+      "realPrice": "2,790,000"
     }
   ]
