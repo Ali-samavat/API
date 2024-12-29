@@ -1,5 +1,5 @@
 [
     { "username": "admin", "password": "admin123", "role": "admin" },
     { "username": "Ali samavat", "password": "s1", "role": "user" ,"age":"17" , "phone":"09194565784" },
-    { "username": "mahdy samavat", "password": "s2", "role": "user" ,"age":"13","phone""09194565784" }
+    { "username": "mahdy samavat", "password": "s2", "role": "user" ,"age":"13","phone":"09194565784" }
 ]
